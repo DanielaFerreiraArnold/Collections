@@ -1,8 +1,5 @@
 package main.java.list.Ordenacao;
 
-import main.java.list.OperacoesBasicas.ListaTarefa;
-import main.java.list.Pesquisa.Livro;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

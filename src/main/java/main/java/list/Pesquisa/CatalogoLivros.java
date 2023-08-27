@@ -1,7 +1,5 @@
 package main.java.list.Pesquisa;
 
-import main.java.list.OperacoesBasicas.ListaTarefa;
-
 import java.util.ArrayList;
 import java.util.List;
 

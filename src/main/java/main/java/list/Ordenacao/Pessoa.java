@@ -1,10 +1,6 @@
 package main.java.list.Ordenacao;
 
-import main.java.list.OperacoesBasicas.ListaTarefa;
-
-import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.List;
 
 public class Pessoa implements Comparable<Pessoa>{
     //atributos
